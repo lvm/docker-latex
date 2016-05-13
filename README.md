@@ -1,6 +1,7 @@
 # docker-latex
 
-A container for [LaTeX](https://latex-project.org/), a document preparation system for high-quality typesetting.
+A container for [LaTeX](https://latex-project.org/), a document preparation system for high-quality typesetting.  
+This container installs `texlive-full` which should cover almost everything needed to build a document without much fuss.  
 
 # how to 
 
